@@ -38,12 +38,12 @@ This project demonstrates:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/amazon-prime-clone.git
+   git clone https://github.com/shubham-jaishu/Amazon_Prime_Videos.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd amazon-prime-clone
+   cd Amazon_Prime_Videos
    ```
 
 3. Open the `index.html` file in your browser:
